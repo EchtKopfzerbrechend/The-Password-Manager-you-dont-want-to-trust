@@ -11,3 +11,10 @@ The "The 'Password Manager' you dont want to trust" is a password manager which 
 My problem was that when the user wanted to add an password, the already saved password was completely overwritten  
   
 And at this problem ChatGPT helped me  
+
+
+
+
+## Demo
+
+https://github.com/user-attachments/assets/baad5bf0-c5f5-475b-83b3-a5a17775d5a5
