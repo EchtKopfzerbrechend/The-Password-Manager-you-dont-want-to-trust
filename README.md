@@ -1,7 +1,7 @@
 The "The 'Password Manager' you dont want to trust" is a password manager which saves the added infos in a .txt file in your storage and it will be saved until you delete it.
 
 Quick explanation of all the features:
-"(1) View all passwords" = Shows all entries in the .txt file
+"(1) View all passwords" = Shows all entries in the .txt file\n
 "(2) Add a password" = Adds more informations to the .txt file
 "(3) Delete a password" = The user can chose a password which he doesn't need anymore
 "(4) Self destruction" = Completely deletes the .txt file without any warning  
